@@ -17,4 +17,5 @@ Form Data table
 Event company:
 Contact:
 Device requirements:
+Event Date:
 Additional set up items:
