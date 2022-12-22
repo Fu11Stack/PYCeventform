@@ -19,3 +19,4 @@ Contact:
 Device requirements:
 Event Date:
 Additional set up items:
+nummber of atttendies
