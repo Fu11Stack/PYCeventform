@@ -21,3 +21,5 @@ Event Date:
 Additional set up items:
 nummber of atttendies
 referal:
+pricing:
+
