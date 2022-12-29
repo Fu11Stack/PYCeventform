@@ -22,4 +22,5 @@ Additional set up items:
 nummber of atttendies
 referal:
 pricing:
+editing of for user
 
