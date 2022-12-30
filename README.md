@@ -24,3 +24,6 @@ referal:
 pricing:
 editing of for user
 
+server preped for upload
+
+
