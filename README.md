@@ -27,3 +27,6 @@ editing of for user
 server preped for upload
 
 user based login with web tokens will be added
+
+edits for user with permissions
+  
