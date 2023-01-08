@@ -36,3 +36,5 @@ server files added for back end
 Server 404 page added 
 
 slider for event pictures
+
+middle ware added
