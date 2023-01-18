@@ -22,7 +22,7 @@ Event Date:
 Additional set up items:
 nummber of atttendies
 referal:#
-pricing:
+pricing:$
 editing of for user
 
 server preped for upload
