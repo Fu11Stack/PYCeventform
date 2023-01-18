@@ -21,7 +21,7 @@ Device requirements:
 Event Date:
 Additional set up items:
 nummber of atttendies
-referal:
+referal:#
 pricing:
 editing of for user
 
