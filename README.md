@@ -38,3 +38,5 @@ Server 404 page added
 slider for event pictures
 
 middle ware added
+
+Cedar room calander
