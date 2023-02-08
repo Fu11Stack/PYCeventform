@@ -1,5 +1,7 @@
 # PYCeventform
 
+React application
+
 Form for events
 
 Needs to include:
